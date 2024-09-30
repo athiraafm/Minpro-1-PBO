@@ -30,7 +30,7 @@ public class Main {
                 case 1:
                     System.out.print("Masukkan nama: ");
                     String nama = scanner.nextLine();
-                    System.out.print("Masukkan usia: ");
+                    System.out.print("Masukkan usia (Min 17 Tahun): ");
                     int usia = scanner.nextInt();
                     scanner.nextLine();
                     System.out.print("Masukkan golongan darah (A, B, AB, O): ");
