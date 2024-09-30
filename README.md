@@ -13,6 +13,7 @@ STRUKTUR PROJEK
 
 Struktur projek ini terdiri dari 2 package, yaitu package main yang terdiri dari 1 class yaitu class main.java dan package data yang terdiri dari 2 class yaitu class donor.java dan class pengeloladonor.java
 
+
 OUTPUT PROGRAM
 
 1. Menu Utama
@@ -21,11 +22,13 @@ OUTPUT PROGRAM
 
 Saat program mulai dijalankan, Menu Utama akan muncul di layar dengan beberapa pilihan yang dapat diakses oleh pengguna. Menu ini akan terus tampil hingga pengguna memilih opsi Keluar
 
+
 2. Tambah Donor
 
 ![image](https://github.com/user-attachments/assets/74cc2bf4-c956-4694-b94e-d0ba458d144a)
 
 User dapat memilih opsi ini untuk memasukkan data donor baru. Setelah memilih, program meminta user untuk mengisi informasi seperti nama, usia (minimal 17 tahun), dan golongan darah. Jika data yang dimasukkan valid, donor baru akan ditambahkan ke dalam daftar.
+
 
 3. Hapus Data Donor
    
@@ -33,11 +36,13 @@ User dapat memilih opsi ini untuk memasukkan data donor baru. Setelah memilih, p
 
 Melalui opsi ini, user dapat menghapus data donor berdasarkan ID donor yang ingin dihapus. Program akan mencari ID yang sesuai dan jika ditemukan, data donor tersebut akan dihapus dari daftar.
 
+
 4. Tampilkan Semua Data Donor
 
 ![image](https://github.com/user-attachments/assets/cb9eab62-c49c-422e-8472-d8dbbc32d4ed)
 
 Pada opsi ini user dapat melihat semua data donor yang telah ditambahkan. Program akan menampilkan tabel yang berisi ID, nama, usia, dan golongan darah dari setiap donor.
+
 
 5. Cari Data Donor
 
@@ -45,11 +50,13 @@ Pada opsi ini user dapat melihat semua data donor yang telah ditambahkan. Progra
 
 Dengan memilih opsi ini, user dapat mencari donor berdasarkan ID. Jika ID ditemukan, program akan menampilkan informasi donor tersebut.
 
+
 6. Update Data Donor
 
 ![image](https://github.com/user-attachments/assets/38fcd7f4-15ea-461c-8f74-fbb0239e47d7)
 
 User dapat memperbarui informasi donor yang ada dengan memilih opsi ini. Setelah memasukkan ID donor yang ingin diupdate, user akan diminta untuk memasukkan nama baru, usia baru, dan golongan darah baru. Jika data valid, informasi donor akan diperbarui.
+
 
 7. Keluar Dari Program
 
